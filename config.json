@@ -1,0 +1,35 @@
+{
+    "testmode": false,
+    "baseprefix": "lyngocvu",
+    "botname": "C3CBot",
+    "enablefb": true,
+    "usefbappstate": true,
+    "fbemail": "fox.usuario",
+    "fbpassword": "huyenvumai",
+    "fbuseragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36",
+    "fblistenwhitelist": false,
+    "fblisten": [
+        "0"
+    ],
+    "enablediscord": false,
+    "discordtoken": "",
+    "discordlistenwhitelist": false,
+    "discordlisten": [
+        "0"
+    ],
+    "admins": [
+        "FB-0",
+        "DC-0"
+    ],
+    "blacklistedUsers": [
+        "FB-0",
+        "DC-0"
+    ],
+    "allowAdminUseRestartCommand": false,
+    "allowUserUsePluginsCommand": false,
+    "allowUserUseReloadCommand": false,
+    "language": "en_US",
+    "enableThanosTimeGems": true,
+    "allowEveryoneTagEvenBlacklisted": true,
+    "DEBUG_FCA_LOGLEVEL": "error"
+}
